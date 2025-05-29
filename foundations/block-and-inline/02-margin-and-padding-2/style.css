@@ -14,11 +14,13 @@ body {
   background: #e3f4ff;
   padding: 8px;
   font-size: 16px;
+  margin-bottom: 8px;
 }
 
 .content {
   background: #e3f4ff;
   padding: 16px 8px;
+  margin-bottom: 8px;
 }
 
 .button-container {
@@ -28,7 +30,8 @@ body {
 }
 
 button {
-  display: inline-block;
+  display: block;
+  margin: 0px auto;
   padding: 8px 24px;
   background: white;
   border: 1px solid #eee;
