@@ -12,6 +12,7 @@ body {
 
 .title {
   background: #e3f4ff;
+  font-size: 16px;
 }
 
 .content {
@@ -25,4 +26,9 @@ body {
 button {
   background: white;
   border: 1px solid #eee;
+}
+
+.content,.button-container,title
+{
+  margin: 8px;
 }
