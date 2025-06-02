@@ -3,7 +3,7 @@
   background: papayawhip;
   display: flex;
   align-items: center;
-
+  padding: 8px;
 }
 
 .logo {
@@ -26,8 +26,8 @@ ul {
 a {
   font-size: 22px;
   background: white;
-  padding: 8px;
-  margin:3px;
+  padding: 8px; 
+  margin:5px;
   /* this removes the line under the links */
   text-decoration: none;
 }
@@ -43,5 +43,5 @@ a {
 .left-links ul
 {
   padding: 0;
-  justify-content: start;
+  justify-content: space-around;
 }
