@@ -29,7 +29,7 @@ a {
   text-decoration: none;
 }
 
-.right-links
+.right-links ul
 {
   display:flex;
   flex-direction: row;
@@ -38,7 +38,7 @@ a {
 
 }
 
-.left-links
+.left-links ul
 {
   display:flex;
   justify-content: center;
