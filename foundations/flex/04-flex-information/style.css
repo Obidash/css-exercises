@@ -24,3 +24,16 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.info
+{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.img-container
+{
+  display: flex;
+  align-items: center;
+}
