@@ -39,3 +39,14 @@ img {
   align-items: center;
   gap: 52px;
 }
+
+.img-container div
+{
+  width: 200px;
+  flex-basis: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: wrap;
+  text-align: center;
+}
