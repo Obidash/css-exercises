@@ -51,7 +51,7 @@ ul {
   list-style-type: none;
   display: flex;
   padding:0;
-  gap: 10px;
+  gap: 16px;
 }
 
 .right
@@ -59,7 +59,7 @@ ul {
   display:flex;
   justify-content: end;
   align-items: center;
-  gap: 10px;
+  gap: 16px;
 }
 
 .left 
@@ -68,7 +68,7 @@ ul {
   justify-content: start;
   margin-right: auto;
   align-items: center;
-  gap: 10px;
+  gap: 16px;
 }
 
 
